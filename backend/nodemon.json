@@ -1,0 +1,13 @@
+{
+  "restartable": "rs",
+  "ignore": [
+    "node_modules",
+    ".git",
+    "*.log",
+    "*.tmp",
+    "tmp/*"
+  ],
+  "watch": ["src/"],
+  "ext": "js,json",
+  "verbose": true
+}
